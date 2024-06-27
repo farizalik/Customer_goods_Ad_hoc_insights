@@ -8,9 +8,9 @@ business in the APAC region.
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_1.png)
 
 2. What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields,
-   - unique_products_2020
-   - unique_products_2021
-   - percentage_chg
+ - unique_products_2020
+ - unique_products_2021
+ - percentage_chg
 
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_2.sql)
 
@@ -41,44 +41,56 @@ sort them in descending order of product counts. The final output contains 2 fie
  - product_code
  - product
  - manufacturing_cost
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_5.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_5.png)
 
 
 6. Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market. The final output contains these fields,
-            - customer_code
-            - customer
-            - average_discount_percentage
+- customer_code
+- customer
+- average_discount_percentage
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_6.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_6.png)
 
 7. Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to get an idea of low and high-performing months and take strategic decisions. The final report contains these 
-            - columns:
-            - Month
-            - Year
-            - Gross sales Amount
+- columns:
+- Month
+- Year
+- Gross sales Amount
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_7.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_7.png)
 
 8. In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the  total_sold_quantity
-            - Quarter
-            - total_sold_quantity
+- Quarter
+- total_sold_quantity
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_8.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_8.png)
 
 9. Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields,
-            - channel
-            - gross_sales_mln
-            - percentage
+- channel
+- gross_sales_mln
+- percentage
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_9.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_9.png)
 
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields,
-            - division
-            - product_code
-            - product
-            - total_sold_quantity
-            rank_order
+- division
+- product_code
+- product
+- total_sold_quantity
+- rank_order
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_10.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_10.png)
 
