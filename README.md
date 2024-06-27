@@ -13,29 +13,34 @@ business in the APAC region.
    - percentage_chg
 
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_2.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_2.png)
 
 3. Provide a report with all the unique product counts for each segment and
 sort them in descending order of product counts. The final output contains 2 fields,
-            - segment
-            - product_count
+ - segment
+ - product_count
+
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_3.sql)
+
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_3.png)
 
 
 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields,
-            - segment
-            - product_count_2020
-            - product_count_2021
-            - difference
+ - segment
+ - product_count_2020
+ - product_count_2021
+ - difference
+
  [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_4.sql)
+
  ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_4.png)
 
 
 5. Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields,
-            - product_code
-            - product
-            - manufacturing_cost
+ - product_code
+ - product
+ - manufacturing_cost
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_5.sql)
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_5.png)
 
