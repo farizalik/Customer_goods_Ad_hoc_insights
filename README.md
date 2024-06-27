@@ -7,6 +7,10 @@ business in the APAC region.
 
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_1.png)
 
+## Insights:
+- Atliq Exclusive operates its business in 8 major markets of Asia Pacific region.
+- Atliq Exclusive has the most stores in APAC region followed by EU(6) and NA (2).
+
 2. What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields,
  - unique_products_2020
  - unique_products_2021
@@ -15,6 +19,9 @@ business in the APAC region.
 [Querie](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/queries/Req_2.sql)
 
 ![Diagram](https://github.com/farizalik/Customer_goods_Ad_hoc_insights/blob/main/Queries_SS/Req_2.png)
+
+## Insights:
+- With a 36.33% increase in new products, Atliq hardware is bulding a strong and dynamic reputation by meeting with the changing needs of the customer.
 
 3. Provide a report with all the unique product counts for each segment and
 sort them in descending order of product counts. The final output contains 2 fields,
